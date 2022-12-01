@@ -1,0 +1,25 @@
+h1{
+    color: #0D4C92;
+    
+}
+h3{
+    color: #0D4C92;
+}
+body{
+    background-color: #CFF5E7
+}
+
+
+hr{
+    width: 5%;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    border-color: grey;
+}
+img{
+    height: 6cm;
+    
+}   
+
+img:hover{background-color: aqua;}
