@@ -1,25 +1,75 @@
-h1{
-    color: #0D4C92;
-    
-}
-h3{
-    color: #0D4C92;
-}
+
+
 body{
-    background-color: #CFF5E7
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
 }
 
-
-hr{
-    width: 5%;
-    border-style: none;
-    border-top-style: dotted;
-    border-width: 10px;
-    border-color: grey;
-}
-img{
-    height: 6cm;
-    
+h1{
+    font-size: 5.6rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+    line-height: 2;
 }   
 
-img:hover{background-color: aqua;}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    color: #66BFBF
+}
+
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E
+}
+
+.top-container{background-color: #CFF5E7; padding: 20px;}
+
+.middle-container{
+
+}
+.skill-row{
+    width: 50%;
+    line-height: 2;
+    margin: auto auto 6rem auto;
+    text-align: left;
+}
+
+.bottom-container{
+
+}
+
+.top-cloud{
+    position: absolute;
+    top: 50px;
+    right: 300px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    bottom: 300px;
+    left: 300px;
+}
+
+.max{
+    border-radius: 50%;
+    width: 12rem;
+}
+
+.computerprog{
+    border-radius: 50%;
+    width: 12rem;
+    float: right;
+    margin-left: 30 px;
+}
+
+.brain{
+    border-radius: 50%;
+    width: 12rem;
+    float: left;
+    margin-right: 30px;
+}
