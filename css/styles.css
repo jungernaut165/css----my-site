@@ -45,14 +45,14 @@ h3{
 
 .top-cloud{
     position: absolute;
-    top: 50px;
-    right: 300px;
+    top: 3.125rem;
+    right: 18.75rem;
 }
 
 .bottom-cloud{
     position: absolute;
-    bottom: 300px;
-    left: 300px;
+    bottom: 18.75rem;
+    left: 18.75rem;
 }
 
 .max{
